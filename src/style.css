@@ -35,6 +35,13 @@ p a {
   color: purple;
 }
 
+.navbar-brand {
+  font-weight: bold;
+  border: solid 2px #000;
+  padding: 4px 8px;
+  font-size: large;
+}
+
 .navigation-links {
   display: flex;
   margin-top: 40px;
@@ -92,4 +99,10 @@ p a {
 
 .email-link:hover {
   text-decoration: underline;
+}
+
+.social-links {
+  font-size: xx-large;
+  font-weight: bold;
+  letter-spacing: 0.4rem;
 }
