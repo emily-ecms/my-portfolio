@@ -48,6 +48,8 @@ p {
   background: var(--primary-color);
   box-shadow: var(--box-shadow);
   color: white;
+  display: block;
+  
 }
 
 .contact-link:hover {
@@ -68,6 +70,7 @@ p {
 .about-paragraphs {
   display: flex;
   margin: 30px 0;
+  padding: 50px;
 }
 
 .about-paragraphs p {
