@@ -30,6 +30,11 @@ p {
   text-align: center;
 }
 
+p a {
+  text-decoration: none;
+  color: purple;
+}
+
 .navigation-links {
   display: flex;
   margin-top: 40px;
