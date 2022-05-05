@@ -59,9 +59,7 @@ p a {
 .contact-link {
   background: var(--primary-color);
   box-shadow: var(--box-shadow);
-  color: white;
-  
-  
+  color: white;  
 }
 
 .contact-link:hover {
@@ -90,8 +88,6 @@ p a {
 }
 
 .email-link {
-  display: flex;
-  justify-content: center;
   color: var(--primary-color);
   font-size: 28px;
   text-decoration: none;
@@ -104,13 +100,9 @@ p a {
 .social-links a {
   font-size: xx-large;
   font-weight: bold;
-  /*letter-spacing: 1em;*/
   color: var(--primary-color);
-  
 }
 
 footer {
   background: var(--secondary-color);
-  
-
 }
