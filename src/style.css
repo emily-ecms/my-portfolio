@@ -60,7 +60,7 @@ p a {
   background: var(--primary-color);
   box-shadow: var(--box-shadow);
   color: white;
-  display: block;
+  
   
 }
 
@@ -101,8 +101,16 @@ p a {
   text-decoration: underline;
 }
 
-.social-links {
+.social-links a {
   font-size: xx-large;
   font-weight: bold;
-  letter-spacing: 0.4rem;
+  /*letter-spacing: 1em;*/
+  color: var(--primary-color);
+  
+}
+
+footer {
+  background: var(--secondary-color);
+  
+
 }
